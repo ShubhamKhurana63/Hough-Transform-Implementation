@@ -1,4 +1,4 @@
-# Hough-Tranform-Implementation
+# Hough-Transform-Implementation
 Implemented the Hough transform algorithm for detecting the lines as well as the circles(coins).
 In this task I have implemented the Hough transform algorithm for detecting the lines as well as the circles(coins).
 Hough for Lines -:
